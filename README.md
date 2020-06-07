@@ -12,6 +12,7 @@ Side proyect: Desarrollo de aplicación web de mapas para consulta de datos geog
 - Estilizado metdología BEM
 - Linter
 - ES6
+- Atomic Desing
 
 ## Alcance y funcionalidades
 
@@ -20,3 +21,13 @@ Side proyect: Desarrollo de aplicación web de mapas para consulta de datos geog
 - Filtrar por varios checkbox
 - Búsqueda por campo de texto
 - Limpiar búsquedas
+
+## Producción
+
+# Definir componentes (Atomic desing)
+- mapa
+- Panel lateral
+- Caja de dats de consulta
+- Búsqueda por texto y botón de búsqueda.
+- Resultados de la búsqueda
+- Filtrado de datos por select.
